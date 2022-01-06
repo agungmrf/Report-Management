@@ -1,0 +1,485 @@
+    <table border='0' style='margin-left: 0%;' cellspacing='0'>
+        <tr>
+            <th colspan='9'><img src='assets/images/ab1.jpg' /></th>
+        </tr>
+        <tr>
+            <th align='left' colspan='9'>
+                <font color='#2a166f' size='4'>YAYASAN PENDIDIKAN SEKOLAH MENENGAH KEJURUAN</font>
+            </th>
+        </tr>
+        <tr>
+            <th align='left' colspan='9'>
+                <font color='#2a166f' size='6'>SMK AL-BAHRI KOTA BEKASI</font>
+            </th>
+        </tr>
+        <tr>
+            <th align='left' colspan='9'>
+                <font color='#2a166f' size='5'>'TERAKREDITASI BAN-S/M'</font>
+            </th>
+        </tr>
+    </table>
+    <h3 align='center'>LAPORAN CAPAIAN KOMPETENSI PESERTA DIDIK<br>TAHUN PELAJARAN 2017/2018<br></h3>
+        <table border='0' width='100%' cellpadding='5' cellspacing='0'>
+        <tr>
+            <td>
+                <font size='3'>Nama Sekolah</font>
+            </td>
+            <td>
+                <font size='3'>:</font>
+            </td>
+            <td>
+                <font size='3'>SMK AL-BAHRI</font>
+            </td>
+            <td></td>
+            <td>
+                <font size='3'>Kelas
+            </td>
+            <td>:</td>
+            <td>
+                <font size='3'>XII/TKJ</font>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <font size='3'>Alamat</font>
+            </td>
+            <td>
+                <font size='3'>:
+            </td>
+            <td>
+                <font size='3'>Jl. Yon Armed Cikiwul Bantargebang Kota Bekasi</font>
+            </td>
+            <td></td>
+            <td>
+                <font size='3'>Semester
+            </td>
+            <td>:</td>
+            <td>
+                <font size='3'>5/(Lima)</font>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <font size='3'>Nomor Induk Siswa</font>
+            </td>
+            <td>
+                <font size='3'>:</font>
+            </td>
+            <td>
+                <font size='3'>151610489</font>
+            </td>
+            <td></td>
+            <td>
+                <font size='3'>Tahun Pelajaran</font>
+            </td>
+            <td>:</td>
+            <td>
+                <font size='3'>2017/2018</font>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <font size='3'>Nama Peserta Didik</font>
+            </td>
+            <td>
+                <font size='3'>:</font>
+            </td>
+            <td>
+                <font size='3'>Agung Ma'ruf</font>
+            </td>
+            <td></td>
+            <td>
+                <font size='3'>Paket Keahlian</font>
+            </td>
+            <td>:</td>
+            <td>
+                <font size='3'>Teknik Komputer dan Jaringan</font>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <font size='3'>N I S N</font>
+            </td>
+            <td>
+                <font size='3'>:</font>
+            </td>
+            <td>
+                <font size='3'>0008306498</font>
+            </td>
+        </tr>
+    </table>
+    <br>
+
+<table border='1' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th rowspan='2' align='center' align='center'>No.</th>
+        <th rowspan='2' width='150px' align='center'>Mata Pelajaran</th>
+        <th colspan='4' align='center'>Pengetahuan</th>
+        <th colspan='3' align='center'>Keterampilan</th>
+    </tr>
+    <tr>
+        <th align='center'>KB</th>
+        <th align='center'>Angka</th>
+        <th align='center'>Predikat</th>
+        <th width='230px'>Deskripsi</th>
+        <th align='center'>Angka</th>
+        <th align='center'>Predikat</th>
+        <th width='225px'>Deskripsi</th>
+    </tr>
+
+    <tr>
+        <th colspan='9' align='left'>Kelompok A</th>
+    </tr>
+
+    
+        <tr>
+            <td align='center'>1</td>
+            <td>Pendidikan Agama dan Budi Pekerti</td>
+            <td align='center'>75</td>
+            <td align='center'>85</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>85</td>
+            <td align='center'>B</td>
+            <td>Baik, Sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan sebagian besar soal cerita.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>2</td>
+            <td>Pendidikan Pancasila dan Kewarganegaraan</td>
+            <td align='center'>75</td>
+            <td align='center'>89</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>86</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>3</td>
+            <td>Bahasa Indonesia</td>
+            <td align='center'>75</td>
+            <td align='center'>85</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>85</td>
+            <td align='center'>B</td>
+            <td>Baik, Sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan sebagian besar soal cerita.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>4</td>
+            <td>Matematika</td>
+            <td align='center'>75</td>
+            <td align='center'>83</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>80</td>
+            <td align='center'>B</td>
+            <td>Baik, Sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan sebagian besar soal cerita.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>5</td>
+            <td>Sejarah Indonesia</td>
+            <td align='center'>75</td>
+            <td align='center'>85</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>80</td>
+            <td align='center'>B</td>
+            <td>Baik, Sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan sebagian besar soal cerita.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>6</td>
+            <td>Bahasa Inggris</td>
+            <td align='center'>75</td>
+            <td align='center'>80</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>90</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>7</td>
+            <td>Seni Budaya</td>
+            <td align='center'>75</td>
+            <td align='center'>76</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>80</td>
+            <td align='center'>B</td>
+            <td>Baik, Sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan sebagian besar soal cerita.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>8</td>
+            <td>Prakarya dan Kewirausahaan</td>
+            <td align='center'>75</td>
+            <td align='center'>85</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>90</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>9</td>
+            <td>Pendidikan Jasmani, Olah Raga & Kesehatan</td>
+            <td align='center'>75</td>
+            <td align='center'>82</td>
+            <td align='center'>B</td>
+            <td>Baik, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi sebagian besar kompetensi dasar tetapi kurang bisa mengevaluasi dua kompentensi dasar.</td>
+            <td align='center'>82</td>
+            <td align='center'>B</td>
+            <td>Baik, Sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan sebagian besar soal cerita.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>10</td>
+            <td>Komputer Terapan</td>
+            <td align='center'>75</td>
+            <td align='center'>90</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>90</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>11</td>
+            <td>Komunikasi Data</td>
+            <td align='center'>75</td>
+            <td align='center'>91</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>91</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>12</td>
+            <td>Sistem Operasi Jaringan</td>
+            <td align='center'>75</td>
+            <td align='center'>90</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>90</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>13</td>
+            <td>Administrasi Server</td>
+            <td align='center'>75</td>
+            <td align='center'>91</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>91</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>14</td>
+            <td>Rancang Bangun Jaringan</td>
+            <td align='center'>75</td>
+            <td align='center'>89</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>89</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>15</td>
+            <td>Troubleshooting Jaringan</td>
+            <td align='center'>75</td>
+            <td align='center'>89</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>89</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan semua soal.</td>
+        </tr>
+        
+        <tr>
+            <td align='center'>16</td>
+            <td>Baca Tulis AlQur'an</td>
+            <td align='center'>75</td>
+            <td align='center'>90</td>
+            <td align='center'>A</td>
+            <td>Sangat baik dan sempurna, Dapat mengingat, mengetahui, menerapkan, menganalisis, dan mengevaluasi semua kompetensi dasar.</td>
+            <td align='center'>85</td>
+            <td align='center'>B</td>
+            <td>Baik, Sangat aktif bertanya, mencoba, menalar dan kreatif dalam menyelesaikan sebagian besar soal cerita.</td>
+        </tr>
+        </table>
+<br>
+<table border='0' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='left'>
+            <font size='3'>C. Praktik Kerja Lapang</font>
+        </th>
+    </tr>
+    <br>
+</table>
+<table border='1' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='center'>No.</th>
+        <th align='center' width='140px'>Mitra DU/DI</th>
+        <th align='center' width='150px'>Lokasi</th>
+        <th align='center' width='330px'>Lamanya (Bulan)</th>
+        <th align='center' width='450px'>Keterangan</th>
+    </tr>
+    
+    <tr>
+        <td align='center'>1</td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr></table>
+<br>
+<table border='0' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='left'>
+            <font size='3'>D. Ekstra Kurikuler</font>
+        </th>
+    </tr>
+    <br>
+</table>
+<table border='1' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='center'>No.</th>
+        <th align='center' width='295px'>Kegiatan Ekstrakurikuler</th>
+        <th align='center' width='785px'>Keterangan</th>
+    </tr>
+    
+    <tr>
+    <td align='center'>1</td>
+    <td>Pramuka</td>
+    <td>Melaksanakan Kegiatan Ekstrakurikuler Pramuka dengan Baik</td>
+    </tr></table>
+<br>
+<table border='0' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='left'>
+            <font size='3'>E. Prestasi</font>
+        </th>
+    </tr>
+    <br>
+</table>
+<table border='1' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='center'>No.</th>
+        <th align='center' width='285px'>Jenis Prestasi</th>
+        <th align='center' width='785px'>Keterangan</th>
+    </tr>
+    
+    <tr>
+        <td align='center'>1</td>
+        <td></td>
+        <td></td>
+    </tr></table>
+<br>
+<table border='0' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='left'>
+            <font size='3'>F. Ketidakhadiran</font>
+        </th>
+    </tr>
+    <br>
+</table>
+<table border='1' cellpadding='5' cellspacing='0' width='300px'>
+    <tr>
+        <th align='center' width='207px'>
+            <font size='2'>Sakit</font>
+        </th>
+        <td>:</td>
+        <td align='right' width='230px'>
+            <font size='2'>Hari</font>
+        </td>
+    </tr>
+    <tr>
+        <th align='center' width='207px'>
+            <font size='2'>Ijin</font>
+        </th>
+        <td>:</td>
+        <td align='right'>
+            <font size='2'>Hari</font>
+        </td>
+    </tr>
+    <tr>
+        <th align='center' width='207px'>
+            <font size='2'>Tanpa Keterangan</font>
+        </th>
+        <td>:</td>
+        <td align='right'>
+            <font size='2'>Hari</font>
+        </td>
+    </tr>
+</table>
+<br>
+<table border='0' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='left'>
+            <font size='3'>G. Catatan Wali Kelas</font>
+        </th>
+    </tr>
+</table>
+<table border='1' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <td align='center' width='1105px' height='80px'></td>
+    </tr>
+</table>
+<br>
+<table border='0' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <th align='left'>
+            <font size='3'>H. Tanggapan Orang tua/wali</font>
+        </th>
+    </tr>
+</table>
+<table border='1' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <td align='center' width='1105px' height='80px'></td>
+    </tr>
+</table>
+<br>
+<table border='0' style='margin-left: 8.7%;' width='100%' cellpadding='5' cellspacing='0'>
+    <tr>
+        <td colspan='2' width='1107px' align='right'>Bekasi,16 Desember 2017 </td>
+    </tr>
+    <tr>
+        <td align='left'>Mengetahui,<br> Orang tua/Wali</td>
+        <td align='right'>Wali Kelas, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td align='left' height='70px'></td>
+        <td align='left'></td>
+    </tr>
+    <tr>
+        <td align='left'>(................................)</td>
+        <td align='right'><b>(SUYATNO, S.KOM) </b> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+        <td colspan='2' width='1107px' align='center'><b>Mengetahui, <br> Kepala Sekolah </b></td>
+    </tr>
+    <tr>
+        <td align='left' height='70px'></td>
+        <td align='left'></td>
+    </tr>
+    <tr>
+        <td colspan='2' align='center'><b>(MIFTACHUROCHMAN, S.T) </b> &nbsp;&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+</table>
